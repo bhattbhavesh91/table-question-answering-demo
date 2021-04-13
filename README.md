@@ -1,8 +1,14 @@
 # Question Answering on Tabular Data with HuggingFace Transformers Pipeline & TAPAS
 
 ## To view the video
-* [Click here](https://youtu.be/MclFnA00jkY)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=MclFnA00jkY" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/MclFnA00jkY?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Question Answering on Tabular Data with HuggingFace Transformers Pipeline & TAPAS
 ](http://img.youtube.com/vi/MclFnA00jkY/0.jpg)](http://www.youtube.com/watch?v=MclFnA00jkY)
