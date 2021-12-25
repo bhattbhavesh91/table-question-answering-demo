@@ -1,4 +1,4 @@
-Pos,Player,Team,Span,Innings,Runs,Highest Score,Average,Strike Rate
+Pos,Player_Name,Team,Span,Innings,Runs,Highest Score,Average,Strike Rate
 1,Sachin Tendulkar,India,1989-2012,452,18426,200,44.83,86.23
 2,Kumar Sangakkara,Sri Lanka,2000-2015,380,14234,169,41.98,78.86
 3,Ricky Ponting,Australia,1995-2012,365,13704,164,42.03,80.39
